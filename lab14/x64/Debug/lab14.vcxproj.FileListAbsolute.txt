@@ -1,0 +1,5 @@
+D:\Інформатика\C++\lab14\x64\Debug\lab14.vcxproj.AssemblyReference.cache
+D:\Інформатика\C++\lab14\x64\Debug\lab14.vcxproj.SuggestedBindingRedirects.cache
+D:\Інформатика\C++\lab14\x64\Debug\lab14.MyForm.resources
+D:\Інформатика\C++\lab14\x64\Debug\lab14.vcxproj.GenerateResource.cache
+D:\Інформатика\C++\lab14\x64\Debug\lab14.exe
